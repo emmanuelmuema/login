@@ -1,0 +1,32 @@
+*, body{
+    margin: 0;
+    paddling: 0;
+    background color: #FFE6C9;
+}
+.home{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	margin-top: 5%;
+}
+.card{
+	width: 700px;
+	height: 400px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0 , 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.left{
+	float: left;
+	width: 60%;
+	height: 100%;
+}
+.left img{
+	width: 250px;
+}
+.right{
+	float: right;
+	width: 40%;
+	height: 100%;
+	background-color: #fff;
+}
