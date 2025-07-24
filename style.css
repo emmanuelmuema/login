@@ -1,7 +1,7 @@
 *, body{
     margin: 0;
     paddling: 0;
-    background color: #FFE6C9;
+    background-color:lightpink;
 }
 .home{
 	align-items: center;
@@ -12,7 +12,9 @@
 .card{
 	width: 700px;
 	height: 400px;
-	background-color: #fff;
+	background-color: white;
+	align-items: center;
+	margin-top: 3%;
 	border-radius: 10px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0 , 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -20,6 +22,7 @@
 	float: left;
 	width: 60%;
 	height: 100%;
+	 background-color: lightpink;
 }
 .left img{
 	width: 250px;
@@ -28,5 +31,5 @@
 	float: right;
 	width: 40%;
 	height: 100%;
-	background-color: #fff;
+	background-color: white;
 }
